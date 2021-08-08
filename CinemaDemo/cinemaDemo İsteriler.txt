@@ -1,0 +1,22 @@
+Kullanıcı Tanımlama+
+(Sinema Tanımlama Örneğin : Edirne ABC AVM)++
+, Salon Tanımlama+
+, Film Kategori Tanımlama+
+, Film Tanımlama+
+, Seans Tanımlama+
+, Bilet Satışı
+, Seans Bazlı Bilet Satış Raporu
+, Salon Bazlı Film Satış Raporu
+, Sinema Bazlı Satış Raporu
+
+ticket
+
+biletin sahibi
+
+filmin adı
+filmin kategorisi
+
+salonun numarası
+filmin seans saati
+
+
